@@ -1,0 +1,60 @@
+body{
+    background-color:lightgray;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background:linear-gradient(rgba(228, 196, 196, 0.5),rgba(225,228,196,0.5)),url(ani.png)no repeat center/cover;
+    border-style:groove;
+    border-style:10px;
+    border-color:rgb(2, 63, 58);
+    border-width:10px;
+    margin:top 60px;
+    margin:bottom 60px;
+    padding:auto;
+}
+.profile-card {
+  width: 900px;
+  margin: 30px auto;  
+  padding: 35px;
+  text-align: center;
+  background-color: #ddd;
+  border-radius: 20px;
+}
+img{
+    border:10px,dotted darkblue;
+    border-radius:60%;
+    padding:10px;
+    width:200px;
+    max-width:30%;
+    height:auto;
+    display:black;
+}
+h1{
+    text-align:justify;
+    text-align:center;
+    color:#333333;
+    font-style:bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500px;
+    font-size: 55px;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    text-decoration: wavy crimson;
+    text-shadow: rgba(225,228,196,0.5)2px 4px 5px;
+}
+h3{
+    text-align: justify;
+    text-align: center;
+    text-shadow: white 2px 4px 5px;
+    color:black;
+    font-style: bold;
+    font-style: bold;
+    font-family: poppins;
+    font-weight: 100;
+    font-size: 20px;
+    word-spacing: 4px;
+    letter-spacing: 5px;
+}
+h4{
+    color:darkred;
+    font-style: bold;
+}
